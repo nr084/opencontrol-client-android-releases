@@ -8,7 +8,7 @@
 
 ## Скачать
 
-[Последний релиз и APK](https://github.com/nr084/opencontrol-android/releases/latest)
+[Последний релиз и APK](https://github.com/nr084/opencontrol-client-android-releases/releases/latest)
 
 Требуется Android 8.0 или новее. APK включает arm64-v8a и x86_64. Версия 1.0.0 использует библиотеку OpenControl 0.1.0.
 
@@ -43,6 +43,6 @@
 
 ## Обратная связь
 
-[Сообщить о проблеме или предложить улучшение](https://github.com/nr084/opencontrol-android/issues). Не публикуйте пароли и другие конфиденциальные данные.
+[Сообщить о проблеме или предложить улучшение](https://github.com/nr084/opencontrol-client-android-releases/issues). Не публикуйте пароли и другие конфиденциальные данные.
 
 (c) nr084
