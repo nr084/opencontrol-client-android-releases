@@ -1,5 +1,7 @@
 # OpenControl Client: QR профиля, формат v1
 
+**Русский** | [English](QR_PROFILE_FORMAT.en.md)
+
 QR содержит обычный JSON в UTF-8, без URI-обёртки и без Base64:
 
 ```json
