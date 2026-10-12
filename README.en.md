@@ -12,9 +12,9 @@ This repository contains APK releases and instructions. Application sources are 
 
 [Latest release and APK](https://github.com/nr084/opencontrol-client-android-releases/releases/latest)
 
-Android 8.0 or later is required. The APK supports arm64-v8a and x86_64. Version 1.4.1 uses the OpenControl library 0.1.0.
+Android 8.0 or later is required. The APK supports arm64-v8a and x86_64. Version 1.5.0 uses the OpenControl library 0.1.0.
 
-1. Download `OpenControl-client-1.4.1-release.apk` from **Assets**. The **Source code** archives are not needed for installation.
+1. Download `OpenControl-client-1.5.0-release.apk` from **Assets**. The **Source code** archives are not needed for installation.
 2. Open the APK on Android and allow installation from your browser or file manager if prompted.
 3. Install and open OpenControl Client.
 
@@ -80,7 +80,7 @@ With automatic reconnection enabled, unexpected disconnections and temporary err
 - Global split tunneling and network exclusions.
 - Password encryption using Android Keystore.
 - Saved certificate fingerprints for each profile.
-- Russian and English interface following Android language settings.
+- 69 interface languages following Android language settings. New translations are automatic; Romansh is excluded.
 - Light and dark themes following system settings.
 - Connection statistics and a notification with a disconnect action.
 - Screenshots are allowed. **About** shows the application and OpenControl library versions.

@@ -2,6 +2,15 @@
 
 [Русский](CHANGELOG.md) | **English**
 
+## 1.5.0 — 2026-10-12
+
+- Interface localization for 69 languages and variants for 85 Google Play locales.
+- Existing Russian and English UI retained; new translations are automatic. Romansh is excluded.
+- Store icon, feature graphic and real phone, 7-inch and 10-inch tablet screenshots in Russian and English.
+- Translated Google Play listings and a signed AAB.
+
+This release does not resolve the reported 600-second disconnection on Kerio Control 9.4.3 build 8353.
+
 ## 1.4.1 — 2026-10-11
 
 - Automatic reconnection retains the intent to stay connected after unexpected disconnections, network changes and temporary errors.
