@@ -96,3 +96,5 @@ Install a new APK over the existing app to preserve profiles and settings; unins
 [Changelog](CHANGELOG.en.md)
 
 © nr084
+
+[Privacy policy](PRIVACY_POLICY.en.md)
