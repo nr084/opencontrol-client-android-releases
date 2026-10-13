@@ -1,0 +1,246 @@
+<ru-RU>
+Оптимизирована release-сборка с R8. Улучшена поддержка поворота экрана и планшетов. Добавлены отдельное согласие на использование VPN и ссылка на политику конфиденциальности. Сохранена поддержка обновления маршрутов OpenControl 0.2.0 без пересоздания VPN при неизменных маршрутах.
+</ru-RU>
+<af>
+Geoptimaliseerde vrystellingbou. Verbeterde skermrotasie en tabletondersteuning. Het 'n VPN-data-openbaarmaking en 'n privaatheidsbeleidskakel bygevoeg.
+</af>
+<am>
+የተሻሻለ የልቀት ግንባታ። የተሻሻለ የስክሪን ማሽከርከር እና የጡባዊ ድጋፍ። የቪፒኤን ውሂብ ይፋ ማድረግ እና የግላዊነት መመሪያ አገናኝ ታክሏል።
+</am>
+<ar>
+بناء الإصدار الأمثل. تحسين دوران الشاشة ودعم الجهاز اللوحي. تمت إضافة كشف بيانات VPN ورابط سياسة الخصوصية.
+</ar>
+<az-AZ>
+Optimallaşdırılmış buraxılış quruluşu. Təkmilləşdirilmiş ekran fırlanması və planşet dəstəyi. VPN məlumatlarının açıqlanması və məxfilik siyasəti bağlantısı əlavə edildi.
+</az-AZ>
+<be>
+Аптымізаваная зборка выпуску. Палепшаны паварот экрана і падтрымка планшэта. Дададзена раскрыццё дадзеных VPN і спасылка на палітыку прыватнасці.
+</be>
+<bg>
+Оптимизирана версия на версията. Подобрено завъртане на екрана и поддръжка на таблет. Добавено е разкриване на VPN данни и връзка към правилата за поверителност.
+</bg>
+<bn-BD>
+অপ্টিমাইজ করা রিলিজ বিল্ড। উন্নত স্ক্রিন ঘূর্ণন এবং ট্যাবলেট সমর্থন। একটি VPN ডেটা প্রকাশ এবং একটি গোপনীয়তা নীতি লিঙ্ক যোগ করা হয়েছে৷
+</bn-BD>
+<ca>
+Construcció de llançament optimitzada. Rotació de pantalla millorada i suport de tauleta. S'ha afegit una divulgació de dades VPN i un enllaç a la política de privadesa.
+</ca>
+<cs-CZ>
+Optimalizované sestavení vydání. Vylepšené otáčení obrazovky a podpora tabletu. Přidáno zpřístupnění dat VPN a odkaz na zásady ochrany osobních údajů.
+</cs-CZ>
+<da-DK>
+Optimeret udgivelsesopbygning. Forbedret skærmrotation og tablet-understøttelse. Tilføjet en VPN-dataafsløring og et link til en privatlivspolitik.
+</da-DK>
+<de-DE>
+Optimierter Release-Build. Verbesserte Bildschirmdrehung und Tablet-Unterstützung. Es wurden eine VPN-Datenoffenlegung und ein Link zur Datenschutzrichtlinie hinzugefügt.
+</de-DE>
+<el-GR>
+Βελτιστοποιημένη έκδοση έκδοσης. Βελτιωμένη περιστροφή οθόνης και υποστήριξη tablet. Προστέθηκε μια αποκάλυψη δεδομένων VPN και ένας σύνδεσμος πολιτικής απορρήτου.
+</el-GR>
+<en-AU>
+Optimized the release build with R8. Improved screen rotation and tablet support. Added a separate VPN data disclosure and a privacy policy link. Retained OpenControl 0.2.0 route updates without recreating the VPN when routes are unchanged.
+</en-AU>
+<en-CA>
+Optimized the release build with R8. Improved screen rotation and tablet support. Added a separate VPN data disclosure and a privacy policy link. Retained OpenControl 0.2.0 route updates without recreating the VPN when routes are unchanged.
+</en-CA>
+<en-GB>
+Optimized the release build with R8. Improved screen rotation and tablet support. Added a separate VPN data disclosure and a privacy policy link. Retained OpenControl 0.2.0 route updates without recreating the VPN when routes are unchanged.
+</en-GB>
+<en-IN>
+Optimized the release build with R8. Improved screen rotation and tablet support. Added a separate VPN data disclosure and a privacy policy link. Retained OpenControl 0.2.0 route updates without recreating the VPN when routes are unchanged.
+</en-IN>
+<en-SG>
+Optimized the release build with R8. Improved screen rotation and tablet support. Added a separate VPN data disclosure and a privacy policy link. Retained OpenControl 0.2.0 route updates without recreating the VPN when routes are unchanged.
+</en-SG>
+<en-US>
+Optimized the release build with R8. Improved screen rotation and tablet support. Added a separate VPN data disclosure and a privacy policy link. Retained OpenControl 0.2.0 route updates without recreating the VPN when routes are unchanged.
+</en-US>
+<en-ZA>
+Optimized the release build with R8. Improved screen rotation and tablet support. Added a separate VPN data disclosure and a privacy policy link. Retained OpenControl 0.2.0 route updates without recreating the VPN when routes are unchanged.
+</en-ZA>
+<es-419>
+Versión de lanzamiento optimizada. Rotación de pantalla mejorada y soporte para tabletas. Se agregó una divulgación de datos de VPN y un enlace de política de privacidad.
+</es-419>
+<es-ES>
+Versión de lanzamiento optimizada. Rotación de pantalla mejorada y soporte para tabletas. Se agregó una divulgación de datos de VPN y un enlace de política de privacidad.
+</es-ES>
+<es-US>
+Versión de lanzamiento optimizada. Rotación de pantalla mejorada y soporte para tabletas. Se agregó una divulgación de datos de VPN y un enlace de política de privacidad.
+</es-US>
+<et>
+Optimeeritud versiooni koostamine. Täiustatud ekraani pööramine ja tahvelarvuti tugi. Lisatud on VPN-i andmete avalikustamine ja privaatsuspoliitika link.
+</et>
+<eu-ES>
+Optimizatutako bertsioaren eraikuntza. Pantailaren biraketa eta tabletaren euskarria hobetu da. VPN datuen dibulgazioa eta pribatutasun politikaren esteka gehitu dira.
+</eu-ES>
+<fa>
+ساخت نسخه بهینه شده چرخش صفحه نمایش بهبود یافته و پشتیبانی از تبلت. افشای اطلاعات VPN و یک پیوند خط مشی رازداری اضافه شد.
+</fa>
+<fi-FI>
+Optimoitu julkaisurakenne. Parannettu näytön kierto ja tabletin tuki. Lisätty VPN-tietojen paljastaminen ja tietosuojakäytäntölinkki.
+</fi-FI>
+<fil>
+Na-optimize na pagbuo ng release. Pinahusay na pag-ikot ng screen at suporta sa tablet. Nagdagdag ng pagbubunyag ng data ng VPN at link ng patakaran sa privacy.
+</fil>
+<fr-CA>
+Version optimisée. Rotation de l'écran et prise en charge de la tablette améliorées. Ajout d'une divulgation de données VPN et d'un lien vers la politique de confidentialité.
+</fr-CA>
+<fr-FR>
+Version optimisée. Rotation de l'écran et prise en charge de la tablette améliorées. Ajout d'une divulgation de données VPN et d'un lien vers la politique de confidentialité.
+</fr-FR>
+<gl-ES>
+Creación de versión optimizada. Mellora a rotación da pantalla e a compatibilidade coa tableta. Engadiuse unha divulgación de datos VPN e unha ligazón á política de privacidade.
+</gl-ES>
+<gu>
+ઑપ્ટિમાઇઝ પ્રકાશન બિલ્ડ. સુધારેલ સ્ક્રીન રોટેશન અને ટેબ્લેટ સપોર્ટ. VPN ડેટા ડિસ્ક્લોઝર અને ગોપનીયતા નીતિની લિંક ઉમેરી.
+</gu>
+<hi-IN>
+अनुकूलित रिलीज़ बिल्ड. बेहतर स्क्रीन रोटेशन और टैबलेट समर्थन। एक वीपीएन डेटा प्रकटीकरण और एक गोपनीयता नीति लिंक जोड़ा गया।
+</hi-IN>
+<hr>
+Optimizirana verzija izdanja. Poboljšana rotacija zaslona i podrška za tablet. Dodano otkrivanje VPN podataka i poveznica na politiku privatnosti.
+</hr>
+<hu-HU>
+Optimalizált kiadás build. Továbbfejlesztett képernyőforgatás és tablettámogatás. VPN adatközlés és adatvédelmi irányelv hivatkozás hozzáadva.
+</hu-HU>
+<hy-AM>
+Օպտիմիզացված թողարկման կառուցում: Էկրանի պտտման և պլանշետի բարելավված աջակցություն: Ավելացրել է VPN տվյալների բացահայտում և գաղտնիության քաղաքականության հղում:
+</hy-AM>
+<id>
+Versi rilis yang dioptimalkan. Peningkatan rotasi layar dan dukungan tablet. Menambahkan pengungkapan data VPN dan tautan kebijakan privasi.
+</id>
+<is-IS>
+Fínstillt útgáfusmíði. Bættur skjásnúningur og spjaldtölvustuðningur. Bætti við VPN gagnabirtingu og tengli um persónuverndarstefnu.
+</is-IS>
+<it-IT>
+Build di rilascio ottimizzato. Rotazione dello schermo e supporto tablet migliorati. Aggiunta un'informativa sui dati VPN e un collegamento alla politica sulla privacy.
+</it-IT>
+<iw-IL>
+בניית גרסה אופטימלית. סיבוב מסך משופר ותמיכה בטאבלט. נוסף גילוי נתוני VPN וקישור למדיניות פרטיות.
+</iw-IL>
+<ja-JP>
+最適化されたリリースビルド。画面の回転とタブレットのサポートが改善されました。 VPN データ開示とプライバシー ポリシーのリンクを追加しました。
+</ja-JP>
+<ka-GE>
+ოპტიმიზებული გამოშვების აგება. გაუმჯობესებული ეკრანის როტაცია და ტაბლეტის მხარდაჭერა. დამატებულია VPN მონაცემების გამჟღავნება და კონფიდენციალურობის პოლიტიკის ბმული.
+</ka-GE>
+<kk>
+Оңтайландырылған шығарылым құрастыру. Жақсартылған экранды айналдыру және планшетті қолдау. VPN деректерін ашу және құпиялылық саясатының сілтемесі қосылды.
+</kk>
+<km-KH>
+ការស្ថាបនាការចេញផ្សាយដែលប្រសើរឡើង។ ធ្វើឱ្យប្រសើរឡើងនូវការបង្វិលអេក្រង់ និងការគាំទ្រថេប្លេត។ បានបន្ថែមការបង្ហាញទិន្នន័យ VPN និងតំណភ្ជាប់គោលការណ៍ឯកជនភាព។
+</km-KH>
+<kn-IN>
+ಆಪ್ಟಿಮೈಸ್ಡ್ ಬಿಡುಗಡೆ ನಿರ್ಮಾಣ. ಸುಧಾರಿತ ಪರದೆಯ ತಿರುಗುವಿಕೆ ಮತ್ತು ಟ್ಯಾಬ್ಲೆಟ್ ಬೆಂಬಲ. VPN ಡೇಟಾ ಬಹಿರಂಗಪಡಿಸುವಿಕೆ ಮತ್ತು ಗೌಪ್ಯತೆ ನೀತಿ ಲಿಂಕ್ ಅನ್ನು ಸೇರಿಸಲಾಗಿದೆ.
+</kn-IN>
+<ko-KR>
+최적화된 릴리스 빌드. 화면 회전 및 태블릿 지원이 향상되었습니다. VPN 데이터 공개 및 개인정보 보호정책 링크를 추가했습니다.
+</ko-KR>
+<ky-KG>
+Оптималдаштырылган чыгаруу түзүмү. Жакшыртылган экранды айлантуу жана планшетти колдоо. VPN маалыматтарын ачуу жана купуялык саясатынын шилтемеси кошулду.
+</ky-KG>
+<lo-LA>
+ການ​ສ້າງ​ການ​ປ່ອຍ​ທີ່​ເຫມາະ​ສົມ​. ປັບປຸງການຫມຸນໜ້າຈໍ ແລະຮອງຮັບແທັບເລັດ. ເພີ່ມການເປີດເຜີຍຂໍ້ມູນ VPN ແລະການເຊື່ອມໂຍງນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ.
+</lo-LA>
+<lt>
+Optimizuotas leidimas. Patobulintas ekrano pasukimas ir planšetinio kompiuterio palaikymas. Pridėtas VPN duomenų atskleidimas ir privatumo politikos nuoroda.
+</lt>
+<lv>
+Optimizēta laidiena versija. Uzlabota ekrāna pagriešana un planšetdatora atbalsts. Pievienota VPN datu atklāšana un konfidencialitātes politikas saite.
+</lv>
+<mk-MK>
+Изградба на оптимизирано издание. Подобрена ротација на екранот и поддршка за таблет. Додадено е обелоденување на податоци за VPN и врска за политика за приватност.
+</mk-MK>
+<ml-IN>
+ഒപ്റ്റിമൈസ് ചെയ്ത റിലീസ് ബിൽഡ്. മെച്ചപ്പെട്ട സ്‌ക്രീൻ റൊട്ടേഷനും ടാബ്‌ലെറ്റ് പിന്തുണയും. ഒരു VPN ഡാറ്റ വെളിപ്പെടുത്തലും ഒരു സ്വകാര്യതാ നയ ലിങ്കും ചേർത്തു.
+</ml-IN>
+<mn-MN>
+Оновчтой хувилбарын бүтэц. Дэлгэцийн эргэлт болон таблетын дэмжлэгийг сайжруулсан. VPN мэдээлэл задруулах болон нууцлалын бодлогын холбоосыг нэмсэн.
+</mn-MN>
+<mr-IN>
+ऑप्टिमाइझ केलेले प्रकाशन बिल्ड. सुधारित स्क्रीन रोटेशन आणि टॅबलेट समर्थन. VPN डेटा प्रकटीकरण आणि गोपनीयता धोरण लिंक जोडली.
+</mr-IN>
+<ms>
+Binaan keluaran yang dioptimumkan. Putaran skrin yang lebih baik dan sokongan tablet. Menambahkan pendedahan data VPN dan pautan dasar privasi.
+</ms>
+<ms-MY>
+Binaan keluaran yang dioptimumkan. Putaran skrin yang lebih baik dan sokongan tablet. Menambahkan pendedahan data VPN dan pautan dasar privasi.
+</ms-MY>
+<my-MM>
+ပိုမိုကောင်းမွန်အောင် ပြုလုပ်ထားသော ထုတ်ဝေမှု တည်ဆောက်မှု။ မျက်နှာပြင်လှည့်ခြင်းနှင့် တက်ဘလက်ကို ပိုမိုကောင်းမွန်အောင် ပံ့ပိုးပေးသည်။ VPN ဒေတာထုတ်ဖော်မှုနှင့် ကိုယ်ရေးကိုယ်တာမူဝါဒလင့်ခ်ကို ထည့်ထားသည်။
+</my-MM>
+<ne-NP>
+अनुकूलित रिलीज निर्माण। सुधारिएको स्क्रिन रोटेशन र ट्याब्लेट समर्थन। एक VPN डेटा प्रकटीकरण र गोपनीयता नीति लिङ्क थपियो।
+</ne-NP>
+<nl-NL>
+Geoptimaliseerde release-build. Verbeterde schermrotatie en tabletondersteuning. Een VPN-gegevensopenbaarmaking en een link naar het privacybeleid toegevoegd.
+</nl-NL>
+<no-NO>
+Optimalisert utgivelsesbygging. Forbedret skjermrotasjon og støtte for nettbrett. Lagt til en VPN-dataavsløring og en lenke for personvernpolicy.
+</no-NO>
+<pa>
+ਅਨੁਕੂਲਿਤ ਰੀਲੀਜ਼ ਬਿਲਡ। ਬਿਹਤਰ ਸਕ੍ਰੀਨ ਰੋਟੇਸ਼ਨ ਅਤੇ ਟੈਬਲੇਟ ਸਹਾਇਤਾ। ਇੱਕ VPN ਡੇਟਾ ਖੁਲਾਸਾ ਅਤੇ ਇੱਕ ਗੋਪਨੀਯਤਾ ਨੀਤੀ ਲਿੰਕ ਜੋੜਿਆ ਗਿਆ।
+</pa>
+<pl-PL>
+Zoptymalizowana wersja wydania. Ulepszona rotacja ekranu i obsługa tabletów. Dodano ujawnienie danych VPN i link do polityki prywatności.
+</pl-PL>
+<pt-BR>
+Compilação de versão otimizada. Rotação de tela e suporte para tablet aprimorados. Adicionada uma divulgação de dados VPN e um link para a política de privacidade.
+</pt-BR>
+<pt-PT>
+Compilação de versão otimizada. Rotação do ecrã e suporte para tablet melhorados. Foi adicionada uma divulgação de dados VPN e uma ligação para a política de privacidade.
+</pt-PT>
+<ro>
+Versiune optimizată. Rotire îmbunătățită a ecranului și suport pentru tabletă. S-a adăugat o dezvăluire a datelor VPN și un link pentru politica de confidențialitate.
+</ro>
+<si-LK>
+ප්‍රශස්ත මුදා හැරීමේ ගොඩනැගීම. වැඩිදියුණු කළ තිර භ්‍රමණය සහ ටැබ්ලට් සහාය. VPN දත්ත අනාවරණයක් සහ රහස්‍යතා ප්‍රතිපත්ති සබැඳියක් එක් කරන ලදී.
+</si-LK>
+<sk>
+Optimalizovaná zostava vydania. Vylepšené otáčanie obrazovky a podpora tabletu. Pridané sprístupnenie údajov VPN a odkaz na zásady ochrany osobných údajov.
+</sk>
+<sl>
+Optimizirana različica izdaje. Izboljšano vrtenje zaslona in podpora za tablični računalnik. Dodano razkritje podatkov VPN in povezava do pravilnika o zasebnosti.
+</sl>
+<sq>
+Ndërtimi i versionit të optimizuar. Rrotullimi i përmirësuar i ekranit dhe mbështetja e tabletit. U shtua një zbulim i të dhënave VPN dhe një lidhje e politikës së privatësisë.
+</sq>
+<sr>
+Оптимизована верзија издања. Побољшана ротација екрана и подршка за таблет. Додано је откривање ВПН података и линк политике приватности.
+</sr>
+<sv-SE>
+Optimerad version av versionen. Förbättrad skärmrotation och stöd för surfplattor. Lade till en VPN-dataavslöjande och en integritetspolicylänk.
+</sv-SE>
+<sw>
+Muundo wa toleo ulioboreshwa. Ubadilishaji wa skrini ulioboreshwa na usaidizi wa kompyuta kibao. Imeongeza ufumbuzi wa data ya VPN na kiungo cha sera ya faragha.
+</sw>
+<ta-IN>
+உகந்த வெளியீட்டு உருவாக்கம். மேம்படுத்தப்பட்ட திரை சுழற்சி மற்றும் டேப்லெட் ஆதரவு. VPN தரவு வெளிப்பாடு மற்றும் தனியுரிமைக் கொள்கை இணைப்பு சேர்க்கப்பட்டது.
+</ta-IN>
+<te-IN>
+ఆప్టిమైజ్ చేసిన విడుదల బిల్డ్. మెరుగైన స్క్రీన్ రొటేషన్ మరియు టాబ్లెట్ మద్దతు. VPN డేటా బహిర్గతం మరియు గోప్యతా విధాన లింక్ జోడించబడింది.
+</te-IN>
+<th>
+โครงสร้างการเปิดตัวที่ปรับให้เหมาะสม ปรับปรุงการหมุนหน้าจอและการรองรับแท็บเล็ต เพิ่มการเปิดเผยข้อมูล VPN และลิงก์นโยบายความเป็นส่วนตัว
+</th>
+<tr-TR>
+Optimize edilmiş sürüm yapısı. Geliştirilmiş ekran döndürme ve tablet desteği. Bir VPN veri açıklaması ve bir gizlilik politikası bağlantısı eklendi.
+</tr-TR>
+<uk>
+Оптимізована збірка випуску. Покращено поворот екрана та підтримку планшета. Додано розкриття даних VPN і посилання на політику конфіденційності.
+</uk>
+<ur>
+آپٹمائزڈ ریلیز کی تعمیر۔ بہتر اسکرین گردش اور ٹیبلٹ سپورٹ۔ VPN ڈیٹا افشاء اور رازداری کی پالیسی کا لنک شامل کیا گیا۔
+</ur>
+<vi>
+Xây dựng bản phát hành được tối ưu hóa. Cải thiện khả năng xoay màn hình và hỗ trợ máy tính bảng. Đã thêm tiết lộ dữ liệu VPN và liên kết chính sách quyền riêng tư.
+</vi>
+<zh-CN>
+优化的发布版本。改进了屏幕旋转和平板电脑支持。添加了 VPN 数据泄露和隐私政策链接。
+</zh-CN>
+<zh-HK>
+優化的發布版本。改進了螢幕旋轉和平板電腦支援。新增了 VPN 資料外洩和隱私權政策連結。
+</zh-HK>
+<zh-TW>
+優化的發布版本。改進了螢幕旋轉和平板電腦支援。新增了 VPN 資料外洩和隱私權政策連結。
+</zh-TW>

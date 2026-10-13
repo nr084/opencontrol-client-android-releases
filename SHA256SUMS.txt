@@ -1,0 +1,5 @@
+cf16841266f13408e869e43344866658c68480739ebfa225c3e68e22a135c5a1  OpenControl-client-1.5.2-release.apk
+e2ef4ab41f5169a41c8f28a4d3854e76d625aaa72f0177d89bb88bdc2857b6bd  OpenControl-client-1.5.2-play.aab
+28bf677a77e5bf07f37aca7997ae861fe8d3a8ae81daf5791a0932eee129f1f3  OpenControl-client-1.5.2-release-notes-82-locales.txt
+e713a2ba39441a73705407d9b839b3febb6efba146b5c2e53d60f86449240184  OpenControl-client-1.5.2-release-notes-en.txt
+c3a95728d54254c5bdf72a0c367a3e387b2b3f56e79fa55c64daab80d57329cd  OpenControl-client-1.5.2-release-notes-ru.txt

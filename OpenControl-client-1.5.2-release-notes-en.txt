@@ -1,0 +1,1 @@
+Optimized the release build with R8. Improved screen rotation and tablet support. Added a separate VPN data disclosure and a privacy policy link. Retained OpenControl 0.2.0 route updates without recreating the VPN when routes are unchanged.

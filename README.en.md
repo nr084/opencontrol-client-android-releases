@@ -12,9 +12,9 @@ This repository contains APK releases and instructions. Application sources are 
 
 [Latest release and APK](https://github.com/nr084/opencontrol-client-android-releases/releases/latest)
 
-Android 8.0 or later is required. The APK supports arm64-v8a and x86_64. Version 1.5.1 uses the OpenControl library 0.2.0.
+Android 8.0 or later is required. The APK supports arm64-v8a and x86_64. Version 1.5.2 uses the OpenControl library 0.2.0.
 
-1. Download `OpenControl-client-1.5.1-release.apk` from **Assets**. The **Source code** archives are not needed for installation.
+1. Download `OpenControl-client-1.5.2-release.apk` from **Assets**. The **Source code** archives are not needed for installation.
 2. Open the APK on Android and allow installation from your browser or file manager if prompted.
 3. Install and open OpenControl Client.
 
@@ -98,3 +98,7 @@ Install a new APK over the existing app to preserve profiles and settings; unins
 © nr084
 
 [Privacy policy](PRIVACY_POLICY.en.md)
+
+## Changes in 1.5.2
+
+R8 optimization, screen rotation support, separate VPN data consent and an in-app privacy policy link. Kerio Control is a private corporate firewall, not a public VPN service; access comes from your network administrator.
