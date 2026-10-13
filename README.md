@@ -12,11 +12,11 @@
 
 [Последний релиз и APK](https://github.com/nr084/opencontrol-client-android-releases/releases/latest)
 
-Требуется Android 8.0 или новее. APK включает arm64-v8a и x86_64. Версия 1.5.0 использует библиотеку OpenControl 0.1.0.
+Требуется Android 8.0 или новее. APK включает arm64-v8a и x86_64. Версия 1.5.1 использует библиотеку OpenControl 0.2.0.
 
 ## Установка
 
-1. Откройте страницу релиза и скачайте файл `OpenControl-client-1.5.0-release.apk` из раздела **Assets**. Архивы **Source code** для установки не нужны.
+1. Откройте страницу релиза и скачайте файл `OpenControl-client-1.5.1-release.apk` из раздела **Assets**. Архивы **Source code** для установки не нужны.
 2. Откройте APK на Android. Если система попросит, разрешите установку из используемого браузера или файлового менеджера.
 3. Установите приложение и откройте OpenControl Client.
 

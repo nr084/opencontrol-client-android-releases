@@ -2,6 +2,14 @@
 
 [Русский](CHANGELOG.md) | **English**
 
+## 1.5.1 — 2026-10-13
+
+- Fixed session termination on repeated periodic ROUTES: identical routes no longer recreate TUN or reset session state.
+- Added live route application through JNI and VpnService with checked replacement-FD ownership transfer.
+- Preserved DNS, search domains, connected subnet, MTU, app selection and network exclusions during route updates.
+- Updated opencontrol-protocol to 0.2.0, commit 35a5c848fb2a25a64da36268026906ce3757b974.
+- TLS, authentication, MFA and rekey algorithms are unchanged.
+
 ## 1.5.0 — 2026-10-12
 
 - Interface localization for 69 languages and variants for 85 Google Play locales.
