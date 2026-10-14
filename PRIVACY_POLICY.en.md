@@ -2,12 +2,15 @@
 
 [Русский](PRIVACY_POLICY.md) | **English**
 
-Effective date: **October 13, 2026**. This policy describes OpenControl Client for Android, package `org.opencontrol.android`, version 1.5.2.
+Effective date: **October 14, 2026**. This policy describes OpenControl Client for Android, package `org.opencontrol.android`, version 1.6.
 
 Developer: **nr084**. Privacy contact: **[arag0rn.smart@gmail.com](mailto:arag0rn.smart@gmail.com)**.
 
 
 The server is a private corporate firewall administered by the network owner, not a public VPN service provided by this project. The app asks for separate consent to its VPN data flow before first VPN use. The privacy policy is accessible from About and that disclosure. The consent version is stored locally; clearing app data removes it.
+
+
+The profile also stores the certificate expiry date and any explicit consent to trust that exact expired certificate. Consent does not permit a different certificate. These are local profile settings.
 
 ## Purpose
 

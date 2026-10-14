@@ -1,0 +1,246 @@
+<ru-RU>
+Добавлена возможность подключения с просроченным сертификатом после разового подтверждения его SHA-256. Согласие сохраняется для конкретного сертификата в профиле, повторные подключения проходят без предупреждения. Подмена сертификата и сертификаты с ещё не наступившим сроком действия блокируются.
+</ru-RU>
+<af>
+Bedienersertifikaat het verval. Hierdie sertifikaat het verval. Bevestig die SHA-256 by jou administrateur. Bevestig om slegs hierdie sertifikaat te vertrou sonder om hierdie waarskuwing te herhaal.
+</af>
+<am>
+የአገልጋዩ የምስክር ወረቀት ጊዜው አልፏል. ይህ የምስክር ወረቀት ጊዜው አልፏል። SHA-256 ን ከአስተዳዳሪዎ ጋር ያረጋግጡ። ይህን ማስጠንቀቂያ ሳይደግም ይህን የምስክር ወረቀት ብቻ ለማመን ያረጋግጡ።
+</am>
+<ar>
+انتهت صلاحية شهادة الخادم. انتهت صلاحية هذه الشهادة. تحقق من بصمة SHA-256 مع المسؤول. أكّد للوثوق بهذه الشهادة فقط دون تكرار هذا التحذير.
+</ar>
+<az-AZ>
+Server sertifikatının müddəti bitib. Bu sertifikatın müddəti bitib. SHA-256 izini administratorla yoxlayın. Bu xəbərdarlıq təkrarlanmadan yalnız bu sertifikata etibar etmək üçün təsdiqləyin.
+</az-AZ>
+<be>
+Тэрмін дзеяння сертыфіката сервера скончыўся. Тэрмін дзеяння гэтага сертыфіката скончыўся. Праверце SHA-256 з адміністратарам. Пацвердзіце давер толькі гэтаму сертыфікату без паўтору папярэджання.
+</be>
+<bg>
+Сертификатът на сървъра е изтекъл. Този сертификат е изтекъл. Проверете SHA-256 с администратора. Потвърдете, за да се доверите само на този сертификат без повторно предупреждение.
+</bg>
+<bn-BD>
+সার্ভারের সার্টিফিকেটের মেয়াদ শেষ. এই সার্টিফিকেটের মেয়াদ শেষ হয়েছে। প্রশাসকের সঙ্গে SHA-256 যাচাই করুন। এই সতর্কতা পুনরাবৃত্তি ছাড়াই শুধু এই সার্টিফিকেটকে বিশ্বাস করতে নিশ্চিত করুন।
+</bn-BD>
+<ca>
+Certificat del servidor caducat. Aquest certificat ha caducat. Verifiqueu-ne el SHA-256 amb l’administrador. Confirmeu per confiar només en aquest certificat sense repetir aquest avís.
+</ca>
+<cs-CZ>
+Platnost certifikátu serveru vypršela. Platnost tohoto certifikátu vypršela. Ověřte SHA-256 se správcem. Potvrďte důvěru pouze tomuto certifikátu bez opakování tohoto upozornění.
+</cs-CZ>
+<da-DK>
+Servercertifikatet er udløbet. Dette certifikat er udløbet. Kontrollér SHA-256 med din administrator. Bekræft for kun at stole på dette certifikat uden at gentage advarslen.
+</da-DK>
+<de-DE>
+Serverzertifikat abgelaufen. Dieses Zertifikat ist abgelaufen. Prüfen Sie den SHA-256-Fingerabdruck mit Ihrem Administrator. Bestätigen Sie, um nur diesem Zertifikat ohne erneute Warnung zu vertrauen.
+</de-DE>
+<el-GR>
+Το πιστοποιητικό διακομιστή έχει λήξει. Αυτό το πιστοποιητικό έχει λήξει. Επαληθεύστε το SHA-256 με τον διαχειριστή σας. Επιβεβαιώστε για να εμπιστευτείτε μόνο αυτό το πιστοποιητικό χωρίς επανάληψη της προειδοποίησης.
+</el-GR>
+<en-AU>
+Added connections with an expired certificate after a one-time SHA-256 confirmation. Consent is saved for the exact certificate in the profile, so subsequent connections do not repeat the warning. Changed and not-yet-valid certificates remain blocked.
+</en-AU>
+<en-CA>
+Added connections with an expired certificate after a one-time SHA-256 confirmation. Consent is saved for the exact certificate in the profile, so subsequent connections do not repeat the warning. Changed and not-yet-valid certificates remain blocked.
+</en-CA>
+<en-GB>
+Added connections with an expired certificate after a one-time SHA-256 confirmation. Consent is saved for the exact certificate in the profile, so subsequent connections do not repeat the warning. Changed and not-yet-valid certificates remain blocked.
+</en-GB>
+<en-IN>
+Added connections with an expired certificate after a one-time SHA-256 confirmation. Consent is saved for the exact certificate in the profile, so subsequent connections do not repeat the warning. Changed and not-yet-valid certificates remain blocked.
+</en-IN>
+<en-SG>
+Added connections with an expired certificate after a one-time SHA-256 confirmation. Consent is saved for the exact certificate in the profile, so subsequent connections do not repeat the warning. Changed and not-yet-valid certificates remain blocked.
+</en-SG>
+<en-US>
+Added connections with an expired certificate after a one-time SHA-256 confirmation. Consent is saved for the exact certificate in the profile, so subsequent connections do not repeat the warning. Changed and not-yet-valid certificates remain blocked.
+</en-US>
+<en-ZA>
+Added connections with an expired certificate after a one-time SHA-256 confirmation. Consent is saved for the exact certificate in the profile, so subsequent connections do not repeat the warning. Changed and not-yet-valid certificates remain blocked.
+</en-ZA>
+<es-419>
+Certificado del servidor caducado. Este certificado ha caducado. Verifique su SHA-256 con el administrador. Confirme para confiar solo en este certificado sin repetir esta advertencia.
+</es-419>
+<es-ES>
+Certificado del servidor caducado. Este certificado ha caducado. Verifique su SHA-256 con el administrador. Confirme para confiar solo en este certificado sin repetir esta advertencia.
+</es-ES>
+<es-US>
+Certificado del servidor caducado. Este certificado ha caducado. Verifique su SHA-256 con el administrador. Confirme para confiar solo en este certificado sin repetir esta advertencia.
+</es-US>
+<et>
+Serveri sertifikaat on aegunud. See sertifikaat on aegunud. Kontrollige SHA-256 administraatoriga. Kinnitage, et usaldada ainult seda sertifikaati ilma hoiatust kordamata.
+</et>
+<eu-ES>
+Zerbitzariaren ziurtagiria iraungi da. Ziurtagiri hau iraungi da. Egiaztatu SHA-256 administratzailearekin. Berretsi ziurtagiri hau bakarrik fidagarritzat jotzeko, abisua berriro erakutsi gabe.
+</eu-ES>
+<fa>
+گواهی سرور منقضی شده است. این گواهی منقضی شده است. اثر انگشت SHA-256 را با مدیر بررسی کنید. برای اعتماد فقط به همین گواهی، بدون تکرار این هشدار، تأیید کنید.
+</fa>
+<fi-FI>
+Palvelimen varmenne on vanhentunut. Tämä varmenne on vanhentunut. Tarkista SHA-256 ylläpitäjältä. Vahvista luottaaksesi vain tähän varmenteeseen ilman toistuvaa varoitusta.
+</fi-FI>
+<fil>
+Nag-expire na ang sertipiko ng server. Nag-expire na ang sertipikong ito. I-verify ang SHA-256 sa administrator. Kumpirmahin upang pagkatiwalaan lamang ang sertipikong ito nang hindi inuulit ang babala.
+</fil>
+<fr-CA>
+Certificat du serveur expiré. Ce certificat a expiré. Vérifiez son empreinte SHA-256 avec votre administrateur. Confirmez pour faire confiance uniquement à ce certificat sans répéter cet avertissement.
+</fr-CA>
+<fr-FR>
+Certificat du serveur expiré. Ce certificat a expiré. Vérifiez son empreinte SHA-256 avec votre administrateur. Confirmez pour faire confiance uniquement à ce certificat sans répéter cet avertissement.
+</fr-FR>
+<gl-ES>
+Certificado do servidor caducado. Este certificado caducou. Verifique o seu SHA-256 co administrador. Confirme para confiar só neste certificado sen repetir esta advertencia.
+</gl-ES>
+<gu>
+સર્વરનું પ્રમાણપત્ર સમાપ્ત થયું છે. આ પ્રમાણપત્રની મુદત સમાપ્ત થઈ છે. તમારા સંચાલક સાથે SHA-256 ચકાસો. આ ચેતવણી ફરી ન બતાવીને માત્ર આ પ્રમાણપત્ર પર વિશ્વાસ કરવા પુષ્ટિ કરો.
+</gu>
+<hi-IN>
+सर्वर प्रमाणपत्र की अवधि समाप्त. इस प्रमाणपत्र की अवधि समाप्त हो गई है। व्यवस्थापक से SHA-256 की पुष्टि करें। यह चेतावनी दोहराए बिना केवल इसी प्रमाणपत्र पर भरोसा करने के लिए पुष्टि करें।
+</hi-IN>
+<hr>
+Certifikat poslužitelja je istekao. Ovaj je certifikat istekao. Provjerite SHA-256 s administratorom. Potvrdite povjerenje samo ovom certifikatu bez ponavljanja ovog upozorenja.
+</hr>
+<hu-HU>
+A kiszolgáló tanúsítványa lejárt. Ez a tanúsítvány lejárt. Ellenőrizze az SHA-256 ujjlenyomatot a rendszergazdával. Erősítse meg, hogy csak ebben a tanúsítványban bízik az ismételt figyelmeztetés nélkül.
+</hu-HU>
+<hy-AM>
+Սերվերի վկայագրի ժամկետը լրացել է. Այս վկայագրի ժամկետը լրացել է։ Ստուգեք SHA-256-ը ադմինիստրատորի հետ։ Հաստատեք՝ վստահելու միայն այս վկայագրին՝ առանց այս նախազգուշացումը կրկնելու։
+</hy-AM>
+<id>
+Sertifikat server kedaluwarsa. Sertifikat ini telah kedaluwarsa. Verifikasi SHA-256 dengan administrator. Konfirmasikan untuk mempercayai hanya sertifikat ini tanpa mengulangi peringatan ini.
+</id>
+<is-IS>
+Vottorð þjónsins er útrunnið. Þetta vottorð er útrunnið. Staðfestu SHA-256 með kerfisstjóra. Staðfestu til að treysta aðeins þessu vottorði án þess að endurtaka viðvörunina.
+</is-IS>
+<it-IT>
+Certificato del server scaduto. Questo certificato è scaduto. Verifica il suo SHA-256 con l’amministratore. Conferma per fidarti solo di questo certificato senza ripetere questo avviso.
+</it-IT>
+<iw-IL>
+תוקף אישור השרת פג. תוקף אישור זה פג. יש לבדוק את SHA-256 עם מנהל המערכת. יש לאשר כדי לתת אמון באישור זה בלבד ללא חזרה על אזהרה זו.
+</iw-IL>
+<ja-JP>
+サーバー証明書の有効期限切れ. この証明書は有効期限が切れています。管理者とSHA-256を確認してください。確認すると、この証明書だけを信頼し、この警告は再表示されません。
+</ja-JP>
+<ka-GE>
+სერვერის სერტიფიკატის ვადა ამოიწურა. ამ სერტიფიკატის ვადა ამოიწურა. გადაამოწმეთ SHA-256 ადმინისტრატორთან. დაადასტურეთ მხოლოდ ამ სერტიფიკატის ნდობა ამ გაფრთხილების გამეორების გარეშე.
+</ka-GE>
+<kk>
+Сервер сертификатының мерзімі аяқталды. Бұл сертификаттың мерзімі аяқталды. SHA-256 таңбасын әкімшімен тексеріңіз. Ескертуді қайталамай, тек осы сертификатқа сену үшін растаңыз.
+</kk>
+<km-KH>
+វិញ្ញាបនបត្រម៉ាស៊ីនមេបានផុតកំណត់. វិញ្ញាបនបត្រនេះបានផុតកំណត់។ ផ្ទៀងផ្ទាត់ SHA-256 ជាមួយអ្នកគ្រប់គ្រង។ បញ្ជាក់ដើម្បីជឿទុកចិត្តតែលើវិញ្ញាបនបត្រនេះ ដោយមិនបង្ហាញការព្រមាននេះម្តងទៀត។
+</km-KH>
+<kn-IN>
+ಸರ್ವರ್ ಪ್ರಮಾಣಪತ್ರದ ಅವಧಿ ಮುಗಿದಿದೆ. ಈ ಪ್ರಮಾಣಪತ್ರದ ಅವಧಿ ಮುಗಿದಿದೆ. ನಿರ್ವಾಹಕರೊಂದಿಗೆ SHA-256 ಪರಿಶೀಲಿಸಿ. ಈ ಎಚ್ಚರಿಕೆಯನ್ನು ಪುನರಾವರ್ತಿಸದೆ ಈ ಪ್ರಮಾಣಪತ್ರವನ್ನು ಮಾತ್ರ ನಂಬಲು ದೃಢೀಕರಿಸಿ.
+</kn-IN>
+<ko-KR>
+서버 인증서 만료. 이 인증서는 만료되었습니다. 관리자와 SHA-256 지문을 확인하세요. 확인하면 이 인증서만 신뢰하며 이 경고는 다시 표시되지 않습니다.
+</ko-KR>
+<ky-KG>
+Сервердин сертификатынын мөөнөтү бүттү. Бул сертификаттын мөөнөтү бүттү. SHA-256 белгисин администратор менен текшериңиз. Эскертүүнү кайталабай, ушул сертификатка гана ишенүү үчүн ырастаңыз.
+</ky-KG>
+<lo-LA>
+ໃບຢັ້ງຢືນເຊີບເວີໝົດອາຍຸ. ໃບຢັ້ງຢືນນີ້ໝົດອາຍຸແລ້ວ. ກວດສອບ SHA-256 ກັບຜູ້ດູແລ. ຢືນຢັນເພື່ອເຊື່ອຖືສະເພາະໃບຢັ້ງຢືນນີ້ ໂດຍບໍ່ເຕືອນຊ້ຳ.
+</lo-LA>
+<lt>
+Serverio sertifikatas nebegalioja. Šis sertifikatas nebegalioja. Patikrinkite SHA-256 su administratoriumi. Patvirtinkite pasitikėjimą tik šiuo sertifikatu be pakartotinio įspėjimo.
+</lt>
+<lv>
+Servera sertifikāta derīgums ir beidzies. Šī sertifikāta derīgums ir beidzies. Pārbaudiet SHA-256 ar administratoru. Apstipriniet uzticēšanos tikai šim sertifikātam bez atkārtota brīdinājuma.
+</lv>
+<mk-MK>
+Сертификатот на серверот е истечен. Овој сертификат е истечен. Проверете го SHA-256 со администраторот. Потврдете за да му верувате само на овој сертификат без повторување на предупредувањето.
+</mk-MK>
+<ml-IN>
+സെർവർ സർട്ടിഫിക്കറ്റിന്റെ കാലാവധി കഴിഞ്ഞു. ഈ സർട്ടിഫിക്കറ്റിന്റെ കാലാവധി കഴിഞ്ഞു. അഡ്മിനിസ്ട്രേറ്ററുമായി SHA-256 പരിശോധിക്കുക. ഈ മുന്നറിയിപ്പ് ആവർത്തിക്കാതെ ഈ സർട്ടിഫിക്കറ്റിനെ മാത്രം വിശ്വസിക്കാൻ സ്ഥിരീകരിക്കുക.
+</ml-IN>
+<mn-MN>
+Серверийн гэрчилгээний хугацаа дууссан. Энэ гэрчилгээний хугацаа дууссан. SHA-256-ыг администратортой шалгана уу. Энэ анхааруулгыг дахин харуулахгүйгээр зөвхөн энэ гэрчилгээнд итгэхийг баталгаажуулна уу.
+</mn-MN>
+<mr-IN>
+सर्व्हर प्रमाणपत्राची मुदत संपली. या प्रमाणपत्राची मुदत संपली आहे. प्रशासकासोबत SHA-256 तपासा. ही चेतावणी पुन्हा न दाखवता फक्त या प्रमाणपत्रावर विश्वास ठेवण्यासाठी पुष्टी करा.
+</mr-IN>
+<ms>
+Sijil pelayan telah tamat tempoh. Sijil ini telah tamat tempoh. Sahkan SHA-256 dengan pentadbir. Sahkan untuk mempercayai hanya sijil ini tanpa mengulangi amaran ini.
+</ms>
+<ms-MY>
+Sijil pelayan telah tamat tempoh. Sijil ini telah tamat tempoh. Sahkan SHA-256 dengan pentadbir. Sahkan untuk mempercayai hanya sijil ini tanpa mengulangi amaran ini.
+</ms-MY>
+<my-MM>
+ဆာဗာလက်မှတ် သက်တမ်းကုန်ဆုံးပြီ. ဤလက်မှတ်သည် သက်တမ်းကုန်ဆုံးပြီဖြစ်သည်။ စီမံခန့်ခွဲသူနှင့် SHA-256 ကို စစ်ဆေးပါ။ ဤသတိပေးချက်ကို ထပ်မပြဘဲ ဤလက်မှတ်တစ်ခုတည်းကိုသာ ယုံကြည်ရန် အတည်ပြုပါ။
+</my-MM>
+<ne-NP>
+सर्भर प्रमाणपत्रको म्याद सकियो. यो प्रमाणपत्रको म्याद सकिएको छ। प्रशासकसँग SHA-256 जाँच गर्नुहोस्। यो चेतावनी नदोहोर्‍याई यही प्रमाणपत्रलाई मात्र विश्वास गर्न पुष्टि गर्नुहोस्।
+</ne-NP>
+<nl-NL>
+Servercertificaat verlopen. Dit certificaat is verlopen. Controleer de SHA-256-vingerafdruk met uw beheerder. Bevestig om alleen dit certificaat te vertrouwen zonder deze waarschuwing te herhalen.
+</nl-NL>
+<no-NO>
+Serversertifikatet har utløpt. Dette sertifikatet har utløpt. Kontroller SHA-256 med administratoren. Bekreft for å stole bare på dette sertifikatet uten å gjenta advarselen.
+</no-NO>
+<pa>
+ਸਰਵਰ ਸਰਟੀਫਿਕੇਟ ਦੀ ਮਿਆਦ ਖਤਮ. ਇਸ ਸਰਟੀਫਿਕੇਟ ਦੀ ਮਿਆਦ ਖਤਮ ਹੋ ਗਈ ਹੈ। ਪ੍ਰਬੰਧਕ ਨਾਲ SHA-256 ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ। ਇਹ ਚੇਤਾਵਨੀ ਦੁਹਰਾਏ ਬਿਨਾਂ ਸਿਰਫ਼ ਇਸ ਸਰਟੀਫਿਕੇਟ ਤੇ ਭਰੋਸਾ ਕਰਨ ਲਈ ਪੁਸ਼ਟੀ ਕਰੋ।
+</pa>
+<pl-PL>
+Certyfikat serwera wygasł. Ten certyfikat wygasł. Sprawdź SHA-256 z administratorem. Potwierdź zaufanie tylko do tego certyfikatu bez ponownego wyświetlania ostrzeżenia.
+</pl-PL>
+<pt-BR>
+Certificado do servidor expirado. Este certificado expirou. Verifique o SHA-256 com o administrador. Confirme para confiar apenas neste certificado sem repetir este aviso.
+</pt-BR>
+<pt-PT>
+Certificado do servidor expirado. Este certificado expirou. Verifique o SHA-256 com o administrador. Confirme para confiar apenas neste certificado sem repetir este aviso.
+</pt-PT>
+<ro>
+Certificatul serverului a expirat. Acest certificat a expirat. Verificați SHA-256 cu administratorul. Confirmați pentru a avea încredere doar în acest certificat fără repetarea avertismentului.
+</ro>
+<si-LK>
+සේවාදායක සහතිකය කල් ඉකුත් වී ඇත. මෙම සහතිකය කල් ඉකුත් වී ඇත. පරිපාලක සමඟ SHA-256 තහවුරු කරන්න. මෙම අනතුරු ඇඟවීම නැවත නොපෙන්වා මෙම සහතිකය පමණක් විශ්වාස කිරීමට තහවුරු කරන්න.
+</si-LK>
+<sk>
+Platnosť certifikátu servera vypršala. Platnosť tohto certifikátu vypršala. Overte SHA-256 so správcom. Potvrďte dôveru iba tomuto certifikátu bez opakovania tohto upozornenia.
+</sk>
+<sl>
+Potrdilo strežnika je poteklo. To potrdilo je poteklo. Preverite SHA-256 s skrbnikom. Potrdite zaupanje samo temu potrdilu brez ponavljanja tega opozorila.
+</sl>
+<sq>
+Certifikata e serverit ka skaduar. Kjo certifikatë ka skaduar. Verifikoni SHA-256 me administratorin. Konfirmoni për t’i besuar vetëm kësaj certifikate pa përsëritur paralajmërimin.
+</sq>
+<sr>
+Сертификат сервера је истекао. Овај сертификат је истекао. Проверите SHA-256 са администратором. Потврдите поверење само овом сертификату без понављања упозорења.
+</sr>
+<sv-SE>
+Servercertifikatet har gått ut. Det här certifikatet har gått ut. Kontrollera SHA-256 med administratören. Bekräfta för att endast lita på detta certifikat utan att upprepa varningen.
+</sv-SE>
+<sw>
+Cheti cha seva kimeisha muda. Cheti hiki kimeisha muda. Thibitisha SHA-256 na msimamizi wako. Thibitisha kuamini cheti hiki tu bila kurudia onyo hili.
+</sw>
+<ta-IN>
+சேவையகச் சான்றிதழ் காலாவதியானது. இந்தச் சான்றிதழ் காலாவதியானது. நிர்வாகியுடன் SHA-256 ஐச் சரிபார்க்கவும். இந்த எச்சரிக்கையை மீண்டும் காட்டாமல் இந்தச் சான்றிதழை மட்டும் நம்ப உறுதிப்படுத்தவும்.
+</ta-IN>
+<te-IN>
+సర్వర్ సర్టిఫికేట్ గడువు ముగిసింది. ఈ సర్టిఫికేట్ గడువు ముగిసింది. నిర్వాహకుడితో SHA-256 ను ధృవీకరించండి. ఈ హెచ్చరికను మళ్లీ చూపకుండా ఈ సర్టిఫికేట్‌ను మాత్రమే నమ్మడానికి నిర్ధారించండి.
+</te-IN>
+<th>
+ใบรับรองเซิร์ฟเวอร์หมดอายุ. ใบรับรองนี้หมดอายุแล้ว ตรวจสอบ SHA-256 กับผู้ดูแลระบบ ยืนยันเพื่อเชื่อถือเฉพาะใบรับรองนี้โดยไม่แสดงคำเตือนนี้ซ้ำ
+</th>
+<tr-TR>
+Sunucu sertifikasının süresi doldu. Bu sertifikanın süresi doldu. SHA-256 parmak izini yöneticinizle doğrulayın. Bu uyarıyı tekrarlamadan yalnızca bu sertifikaya güvenmek için onaylayın.
+</tr-TR>
+<uk>
+Термін дії сертифіката сервера сплив. Термін дії цього сертифіката сплив. Перевірте SHA-256 з адміністратором. Підтвердьте довіру лише цьому сертифікату без повторення попередження.
+</uk>
+<ur>
+سرور سرٹیفکیٹ کی میعاد ختم ہو گئی. اس سرٹیفکیٹ کی میعاد ختم ہو گئی ہے۔ منتظم سے SHA-256 کی تصدیق کریں۔ یہ تنبیہ دوبارہ دکھائے بغیر صرف اسی سرٹیفکیٹ پر اعتماد کرنے کی تصدیق کریں۔
+</ur>
+<vi>
+Chứng chỉ máy chủ đã hết hạn. Chứng chỉ này đã hết hạn. Xác minh SHA-256 với quản trị viên. Xác nhận để chỉ tin cậy chứng chỉ này mà không lặp lại cảnh báo.
+</vi>
+<zh-CN>
+服务器证书已过期. 此证书已过期。请与管理员核对 SHA-256 指纹。确认后将仅信任此证书，不再重复此警告。
+</zh-CN>
+<zh-HK>
+伺服器憑證已過期. 此憑證已過期。請與管理員核對 SHA-256 指紋。確認後將只信任此憑證，不再重複此警告。
+</zh-HK>
+<zh-TW>
+伺服器憑證已過期. 此憑證已過期。請與管理員核對 SHA-256 指紋。確認後將只信任此憑證，不再重複此警告。
+</zh-TW>

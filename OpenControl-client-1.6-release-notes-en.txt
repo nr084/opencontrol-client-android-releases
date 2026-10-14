@@ -1,0 +1,1 @@
+Added connections with an expired certificate after a one-time SHA-256 confirmation. Consent is saved for the exact certificate in the profile, so subsequent connections do not repeat the warning. Changed and not-yet-valid certificates remain blocked.
