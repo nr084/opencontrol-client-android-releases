@@ -2,7 +2,7 @@
 
 [Русский](PRIVACY_POLICY.md) | **English**
 
-Effective date: **October 14, 2026**. This policy describes OpenControl Client for Android, package `org.opencontrol.android`, version 1.6.
+Effective date: **October 15, 2026**. This policy describes OpenControl Client for Android, package `org.opencontrol.android`, version 1.6.1.
 
 Developer: **nr084**. Privacy contact: **[arag0rn.smart@gmail.com](mailto:arag0rn.smart@gmail.com)**.
 
@@ -69,3 +69,14 @@ Email is handled by Google Gmail. Public project pages and issues are hosted on 
 Changes are published on this page with an updated date. Material changes to data processing must be reflected in this policy and any required in-app notices before that processing begins.
 
 For data processing or deletion inquiries, email **arag0rn.smart@gmail.com**.
+
+## APK update checks (from 1.6.1)
+
+The direct APK distribution checks the public GitHub releases API when the app enters
+ the foreground, at most once per 24 hours automatically. Manual checks are also
+ available. GitHub receives the network IP address and a generic application user
+ agent. No credentials, firewall addresses, profiles, device identifiers or VPN
+ traffic contents are included. The last attempt time is stored locally, including
+ unsuccessful attempts, and removed by clearing app data. Opening a release page is
+ optional; the app does not automatically download or install updates. The Google
+ Play distribution contains no external update checker and updates through Google Play.

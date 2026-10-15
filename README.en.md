@@ -12,9 +12,9 @@ This repository contains APK releases and instructions. Application sources are 
 
 [Latest release and APK](https://github.com/nr084/opencontrol-client-android-releases/releases/latest)
 
-Android 8.0 or later is required. The APK supports arm64-v8a and x86_64. Version 1.6 uses the OpenControl library 0.2.0.
+Android 8.0 or later is required. The APK supports arm64-v8a and x86_64. Version 1.6.1 uses the OpenControl library 0.2.0.
 
-1. Download `OpenControl-client-1.6-release.apk` from **Assets**. The **Source code** archives are not needed for installation.
+1. Download `OpenControl-client-1.6.1-apk.apk` from **Assets**. The **Source code** archives are not needed for installation.
 2. Open the APK on Android and allow installation from your browser or file manager if prompted.
 3. Install and open OpenControl Client.
 
@@ -106,3 +106,17 @@ R8 optimization, screen rotation support, separate VPN data consent and an in-ap
 ## Certificates in 1.6
 
 Added connections with an expired certificate after a one-time SHA-256 confirmation. Consent is saved for the exact certificate in the profile, so subsequent connections do not repeat the warning. Changed and not-yet-valid certificates remain blocked.
+
+## Changes in 1.6.1
+
+After a successful connection, retries continue until explicit disconnect, including
+transient server configuration failures. Process restoration requires a saved
+password; session-only secrets are never persisted for recovery. Android may revoke
+VPN permission or force-stop the app.
+
+Two editions share the signing key and existing profiles: `1.6.1-apk` and `1.6.1-play`.
+Only APK has manual update checks and foreground automatic GitHub checks at most
+once per 24 hours, including failed attempts. Manual checks may bypass the interval.
+Downloading/installing is your choice. Play uses Google Play updates and contains
+no external update checker. Files: `OpenControl-client-1.6.1-apk.apk` and
+`OpenControl-client-1.6.1-play.aab`.

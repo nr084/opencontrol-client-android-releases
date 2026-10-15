@@ -1,0 +1,320 @@
+<ru-RU>
+После успешного подключения клиент продолжает переподключаться до явного отключения, в том числе после временных ошибок параметров сервера и смены сети. Добавлены варианты -apk и -play. Только APK: ручная проверка обновлений и автоматическая проверка не чаще раза в 24 часа. Версия Google Play обновляется через магазин.
+</ru-RU>
+<af>
+Verbeterde outomatiese herverbinding nadat die netwerk verander.
+APK: Kyk vir opdaterings.
+</af>
+<am>
+አውታረ መረቡ ከተቀየረ በኋላ አውቶማቲክ ዳግም ግንኙነት ተሻሽሏል።
+APK: ዝማኔዎችን ፈትሽ.
+</am>
+<ar>
+تحسين إعادة الاتصال التلقائي بعد تبديل الشبكة.
+APK: التحقق من التحديثات.
+</ar>
+<az-AZ>
+Şəbəkə dəyişdikdən sonra avtomatik yenidən qoşulma təkmilləşdirildi.
+APK: Yeniləmələri yoxla.
+</az-AZ>
+<be>
+Палепшана аўтаматычнае перападключэнне пасля змены сеткі.
+APK: Праверыць абнаўленні.
+</be>
+<bg>
+Подобрено автоматично повторно свързване след смяна на мрежата.
+APK: Проверка за актуализации.
+</bg>
+<bn-BD>
+নেটওয়ার্ক পরিবর্তনের পরে স্বয়ংক্রিয় পুনঃসংযোগ উন্নত করা হয়েছে।
+APK: আপডেট পরীক্ষা করুন.
+</bn-BD>
+<ca>
+S’ha millorat la reconnexió automàtica després de canviar de xarxa.
+APK: Comprova les actualitzacions.
+</ca>
+<cs-CZ>
+Vylepšeno automatické opětovné připojení po změně sítě.
+APK: Zkontrolovat aktualizace.
+</cs-CZ>
+<da-DK>
+Forbedret automatisk genforbindelse efter netværksskift.
+APK: Søg efter opdateringer.
+</da-DK>
+<de-DE>
+Automatische Wiederverbindung nach einem Netzwerkwechsel verbessert.
+APK: Nach Updates suchen.
+</de-DE>
+<el-GR>
+Βελτιώθηκε η αυτόματη επανασύνδεση μετά από αλλαγή δικτύου.
+APK: Έλεγχος για ενημερώσεις.
+</el-GR>
+<en-AU>
+After a successful connection, the client keeps reconnecting until you explicitly disconnect, including after temporary server configuration errors and network changes. Added -apk and -play editions. APK only: manual update checks and automatic checks at most once every 24 hours. The Play edition updates through Google Play.
+</en-AU>
+<en-CA>
+After a successful connection, the client keeps reconnecting until you explicitly disconnect, including after temporary server configuration errors and network changes. Added -apk and -play editions. APK only: manual update checks and automatic checks at most once every 24 hours. The Play edition updates through Google Play.
+</en-CA>
+<en-GB>
+After a successful connection, the client keeps reconnecting until you explicitly disconnect, including after temporary server configuration errors and network changes. Added -apk and -play editions. APK only: manual update checks and automatic checks at most once every 24 hours. The Play edition updates through Google Play.
+</en-GB>
+<en-IN>
+After a successful connection, the client keeps reconnecting until you explicitly disconnect, including after temporary server configuration errors and network changes. Added -apk and -play editions. APK only: manual update checks and automatic checks at most once every 24 hours. The Play edition updates through Google Play.
+</en-IN>
+<en-SG>
+After a successful connection, the client keeps reconnecting until you explicitly disconnect, including after temporary server configuration errors and network changes. Added -apk and -play editions. APK only: manual update checks and automatic checks at most once every 24 hours. The Play edition updates through Google Play.
+</en-SG>
+<en-US>
+After a successful connection, the client keeps reconnecting until you explicitly disconnect, including after temporary server configuration errors and network changes. Added -apk and -play editions. APK only: manual update checks and automatic checks at most once every 24 hours. The Play edition updates through Google Play.
+</en-US>
+<en-ZA>
+After a successful connection, the client keeps reconnecting until you explicitly disconnect, including after temporary server configuration errors and network changes. Added -apk and -play editions. APK only: manual update checks and automatic checks at most once every 24 hours. The Play edition updates through Google Play.
+</en-ZA>
+<es-419>
+Se mejoró la reconexión automática después de cambiar de red.
+APK: Buscar actualizaciones.
+</es-419>
+<es-ES>
+Se mejoró la reconexión automática después de cambiar de red.
+APK: Buscar actualizaciones.
+</es-ES>
+<es-US>
+Se mejoró la reconexión automática después de cambiar de red.
+APK: Buscar actualizaciones.
+</es-US>
+<et>
+Täiustatud automaatset taasühendumist pärast võrgu vahetamist.
+APK: Kontrolli uuendusi.
+</et>
+<eu-ES>
+Sarea aldatu ondorengo berriro konektatze automatikoa hobetu da.
+APK: Bilatu eguneratzeak.
+</eu-ES>
+<fa>
+اتصال مجدد خودکار پس از تغییر شبکه بهبود یافت.
+APK: بررسی به‌روزرسانی‌ها.
+</fa>
+<fi-FI>
+Parannettu automaattista uudelleenyhdistämistä verkon vaihdon jälkeen.
+APK: Tarkista päivitykset.
+</fi-FI>
+<fil>
+Pinahusay ang awtomatikong muling pagkonekta pagkatapos lumipat ng network.
+APK: Tingnan kung may update.
+</fil>
+<fr-CA>
+Amélioration de la reconnexion automatique après un changement de réseau.
+APK: Rechercher des mises à jour.
+</fr-CA>
+<fr-FR>
+Amélioration de la reconnexion automatique après un changement de réseau.
+APK: Rechercher des mises à jour.
+</fr-FR>
+<gl-ES>
+Mellorouse a reconexión automática despois de cambiar de rede.
+APK: Buscar actualizacións.
+</gl-ES>
+<gu>
+નેટવર્ક બદલ્યા પછી આપમેળે ફરી જોડાવાની પ્રક્રિયામાં સુધારો કર્યો છે.
+APK: અપડેટ તપાસો.
+</gu>
+<hi-IN>
+नेटवर्क बदलने के बाद अपने आप दोबारा जुड़ने की सुविधा बेहतर की गई है।
+APK: अपडेट जाँचें.
+</hi-IN>
+<hr>
+Poboljšano automatsko ponovno povezivanje nakon promjene mreže.
+APK: Provjeri ažuriranja.
+</hr>
+<hu-HU>
+Javult az automatikus újracsatlakozás hálózatváltás után.
+APK: Frissítések keresése.
+</hu-HU>
+<hy-AM>
+Բարելավվել է ավտոմատ վերամիացումը ցանցի փոփոխությունից հետո։
+APK: Ստուգել թարմացումները.
+</hy-AM>
+<id>
+Penyambungan ulang otomatis setelah berganti jaringan ditingkatkan.
+APK: Periksa pembaruan.
+</id>
+<is-IS>
+Bætt sjálfvirk endurtenging eftir breytingu á neti.
+APK: Leita að uppfærslum.
+</is-IS>
+<it-IT>
+Migliorata la riconnessione automatica dopo un cambio di rete.
+APK: Controlla aggiornamenti.
+</it-IT>
+<iw-IL>
+שופר החיבור מחדש האוטומטי לאחר החלפת רשת.
+APK: בדיקת עדכונים.
+</iw-IL>
+<ja-JP>
+ネットワーク切り替え後の自動再接続を改善しました。
+APK: 更新を確認.
+</ja-JP>
+<ka-GE>
+გაუმჯობესდა ავტომატური ხელახალი დაკავშირება ქსელის შეცვლის შემდეგ.
+APK: განახლებების შემოწმება.
+</ka-GE>
+<kk>
+Желі ауысқаннан кейін автоматты қайта қосылу жақсартылды.
+APK: Жаңартуларды тексеру.
+</kk>
+<km-KH>
+បានកែលម្អការតភ្ជាប់ឡើងវិញដោយស្វ័យប្រវត្តិ បន្ទាប់ពីប្តូរបណ្តាញ។
+APK: ពិនិត្យបច្ចុប្បន្នភាព.
+</km-KH>
+<kn-IN>
+ನೆಟ್‌ವರ್ಕ್ ಬದಲಾದ ನಂತರ ಸ್ವಯಂಚಾಲಿತ ಮರುಸಂಪರ್ಕವನ್ನು ಸುಧಾರಿಸಲಾಗಿದೆ.
+APK: ನವೀಕರಣಗಳನ್ನು ಪರಿಶೀಲಿಸಿ.
+</kn-IN>
+<ko-KR>
+네트워크 전환 후 자동 재연결을 개선했습니다.
+APK: 업데이트 확인.
+</ko-KR>
+<ky-KG>
+Тармак алмашкандан кийин автоматтык кайра туташуу жакшыртылды.
+APK: Жаңыртууларды текшерүү.
+</ky-KG>
+<lo-LA>
+ປັບປຸງການເຊື່ອມຕໍ່ຄືນອັດຕະໂນມັດຫຼັງຈາກປ່ຽນເຄືອຂ່າຍ.
+APK: ກວດຫາອັບເດດ.
+</lo-LA>
+<lt>
+Patobulintas automatinis pakartotinis prisijungimas pakeitus tinklą.
+APK: Tikrinti naujinimus.
+</lt>
+<lv>
+Uzlabota automātiskā atkārtotā savienošana pēc tīkla maiņas.
+APK: Pārbaudīt atjauninājumus.
+</lv>
+<mk-MK>
+Подобрено е автоматското повторно поврзување по промена на мрежата.
+APK: Провери ажурирања.
+</mk-MK>
+<ml-IN>
+നെറ്റ്‌വർക്ക് മാറിയതിന് ശേഷമുള്ള സ്വയമേവയുള്ള പുനഃബന്ധിപ്പിക്കൽ മെച്ചപ്പെടുത്തി.
+APK: അപ്‌ഡേറ്റുകൾ പരിശോധിക്കുക.
+</ml-IN>
+<mn-MN>
+Сүлжээ солигдсоны дараах автомат дахин холболтыг сайжрууллаа.
+APK: Шинэчлэлт шалгах.
+</mn-MN>
+<mr-IN>
+नेटवर्क बदलल्यानंतर आपोआप पुन्हा जोडण्याची सुविधा सुधारली आहे.
+APK: अपडेट तपासा.
+</mr-IN>
+<ms>
+Penyambungan semula automatik selepas pertukaran rangkaian ditambah baik.
+APK: Semak kemas kini.
+</ms>
+<ms-MY>
+Penyambungan semula automatik selepas pertukaran rangkaian ditambah baik.
+APK: Semak kemas kini.
+</ms-MY>
+<my-MM>
+ကွန်ရက်ပြောင်းပြီးနောက် အလိုအလျောက် ပြန်လည်ချိတ်ဆက်မှုကို မြှင့်တင်ထားသည်။
+APK: အပ်ဒိတ်များ စစ်ဆေးရန်.
+</my-MM>
+<ne-NP>
+नेटवर्क परिवर्तनपछि स्वचालित पुनःजडान सुधारिएको छ।
+APK: अपडेट जाँच्नुहोस्.
+</ne-NP>
+<nl-NL>
+Automatisch opnieuw verbinden na een netwerkwissel verbeterd.
+APK: Controleren op updates.
+</nl-NL>
+<no-NO>
+Forbedret automatisk gjentilkobling etter nettverksbytte.
+APK: Se etter oppdateringer.
+</no-NO>
+<pa>
+ਨੈੱਟਵਰਕ ਬਦਲਣ ਤੋਂ ਬਾਅਦ ਆਪਣੇ ਆਪ ਮੁੜ ਜੁੜਨ ਦੀ ਸਹੂਲਤ ਵਿੱਚ ਸੁਧਾਰ ਕੀਤਾ ਗਿਆ ਹੈ।
+APK: ਅੱਪਡੇਟ ਜਾਂਚੋ.
+</pa>
+<pl-PL>
+Ulepszono automatyczne ponowne łączenie po zmianie sieci.
+APK: Sprawdź aktualizacje.
+</pl-PL>
+<pt-BR>
+Melhorada a reconexão automática após mudar de rede.
+APK: Verificar atualizações.
+</pt-BR>
+<pt-PT>
+Melhorada a reconexão automática após mudar de rede.
+APK: Verificar atualizações.
+</pt-PT>
+<ro>
+Reconectarea automată după schimbarea rețelei a fost îmbunătățită.
+APK: Caută actualizări.
+</ro>
+<si-LK>
+ජාලය මාරු කිරීමෙන් පසු ස්වයංක්‍රීය නැවත සම්බන්ධ වීම වැඩිදියුණු කර ඇත.
+APK: යාවත්කාලීන පරීක්ෂා කරන්න.
+</si-LK>
+<sk>
+Vylepšené automatické opätovné pripojenie po zmene siete.
+APK: Skontrolovať aktualizácie.
+</sk>
+<sl>
+Izboljšano samodejno ponovno povezovanje po spremembi omrežja.
+APK: Preveri posodobitve.
+</sl>
+<sq>
+U përmirësua rilidhja automatike pas ndryshimit të rrjetit.
+APK: Kontrollo për përditësime.
+</sq>
+<sr>
+Побољшано је аутоматско поновно повезивање након промене мреже.
+APK: Провери ажурирања.
+</sr>
+<sv-SE>
+Förbättrad automatisk återanslutning efter nätverksbyte.
+APK: Sök efter uppdateringar.
+</sv-SE>
+<sw>
+Muunganisho upya wa kiotomatiki baada ya kubadilisha mtandao umeboreshwa.
+APK: Angalia masasisho.
+</sw>
+<ta-IN>
+நெட்வொர்க் மாறிய பிறகு தானியங்கி மீளிணைப்பு மேம்படுத்தப்பட்டது.
+APK: புதுப்பிப்புகளைச் சரிபார்.
+</ta-IN>
+<te-IN>
+నెట్‌వర్క్ మారిన తర్వాత స్వయంచాలక పునఃకనెక్షన్ మెరుగుపరచబడింది.
+APK: నవీకరణల కోసం తనిఖీ చేయండి.
+</te-IN>
+<th>
+ปรับปรุงการเชื่อมต่อใหม่อัตโนมัติหลังจากเปลี่ยนเครือข่าย
+APK: ตรวจสอบการอัปเดต.
+</th>
+<tr-TR>
+Ağ değişikliğinden sonra otomatik yeniden bağlantı iyileştirildi.
+APK: Güncellemeleri denetle.
+</tr-TR>
+<uk>
+Поліпшено автоматичне перепідключення після зміни мережі.
+APK: Перевірити оновлення.
+</uk>
+<ur>
+نیٹ ورک تبدیل ہونے کے بعد خودکار دوبارہ اتصال کو بہتر بنایا گیا ہے۔
+APK: اپ ڈیٹس چیک کریں.
+</ur>
+<vi>
+Cải thiện khả năng tự động kết nối lại sau khi chuyển mạng.
+APK: Kiểm tra cập nhật.
+</vi>
+<zh-CN>
+改进了切换网络后的自动重新连接。
+APK: 检查更新.
+</zh-CN>
+<zh-HK>
+改善切換網絡後的自動重新連線。
+APK: 檢查更新.
+</zh-HK>
+<zh-TW>
+改善切換網路後的自動重新連線。
+APK: 檢查更新.
+</zh-TW>
