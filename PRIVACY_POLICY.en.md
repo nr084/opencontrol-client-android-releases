@@ -2,7 +2,7 @@
 
 [Русский](PRIVACY_POLICY.md) | **English**
 
-Effective date: **October 15, 2026**. This policy describes OpenControl Client for Android, package `org.opencontrol.android`, version 1.6.1.
+Effective date: **October 16, 2026**. This policy describes OpenControl Client for Android, package `org.opencontrol.android`, version 1.6.2.
 
 Developer: **nr084**. Privacy contact: **[arag0rn.smart@gmail.com](mailto:arag0rn.smart@gmail.com)**.
 

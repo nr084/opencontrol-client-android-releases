@@ -2,7 +2,7 @@
 
 **Русский** | [English](PRIVACY_POLICY.en.md)
 
-Дата вступления в силу: **15 октября 2026 года**. Политика описывает OpenControl Client для Android, пакет `org.opencontrol.android`, версии 1.6.1.
+Дата вступления в силу: **16 октября 2026 года**. Политика описывает OpenControl Client для Android, пакет `org.opencontrol.android`, версии 1.6.2.
 
 Разработчик: **nr084**. Контакт по конфиденциальности: **[arag0rn.smart@gmail.com](mailto:arag0rn.smart@gmail.com)**.
 

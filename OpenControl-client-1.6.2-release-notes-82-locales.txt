@@ -1,0 +1,246 @@
+<ru-RU>
+Исправлено автоматическое восстановление VPN после полного исчезновения сети. Пока подключение запрошено, клиент продолжает повторные попытки; после возврата Wi-Fi или мобильной связи подключается без нажатия кнопки. Устранено ожидание устаревших сетевых событий и зависание завершения попытки на DNS. Явное отключение останавливает восстановление.
+</ru-RU>
+<af>
+Outomatiese herverbinding wanneer die netwerk terugkeer, sonder om weer Koppel te druk.
+</af>
+<am>
+አውታረ መረቡ ሲመለስ እንደገና ማገናኛ መጫን ሳያስፈልግ አውቶማቲክ ዳግም ግንኙነት።
+</am>
+<ar>
+إعادة الاتصال تلقائيًا عند عودة الشبكة، دون الحاجة للضغط على زر الاتصال مجددًا.
+</ar>
+<az-AZ>
+Şəbəkə bərpa olunduqda Qoşul düyməsinə yenidən basmadan avtomatik qoşulma.
+</az-AZ>
+<be>
+Аўтаматычнае перападключэнне пасля аднаўлення сеткі без паўторнага націскання кнопкі падключэння.
+</be>
+<bg>
+Автоматично повторно свързване при възстановяване на мрежата, без повторно натискане на бутона за свързване.
+</bg>
+<bn-BD>
+নেটওয়ার্ক ফিরে এলে আবার সংযোগ বোতাম না টিপেই স্বয়ংক্রিয়ভাবে পুনঃসংযোগ।
+</bn-BD>
+<ca>
+Reconnexió automàtica quan torna la xarxa, sense haver de prémer de nou el botó de connexió.
+</ca>
+<cs-CZ>
+Automatické opětovné připojení po obnovení sítě bez dalšího stisknutí tlačítka Připojit.
+</cs-CZ>
+<da-DK>
+Automatisk genforbindelse, når netværket vender tilbage, uden at trykke på forbindelsesknappen igen.
+</da-DK>
+<de-DE>
+Automatische Wiederverbindung, sobald das Netzwerk zurückkehrt, ohne erneut auf Verbinden zu tippen.
+</de-DE>
+<el-GR>
+Αυτόματη επανασύνδεση όταν επανέλθει το δίκτυο, χωρίς να πατήσετε ξανά το κουμπί σύνδεσης.
+</el-GR>
+<en-AU>
+Fixed automatic VPN recovery after complete network loss. While connection is requested, the client keeps retrying and reconnects when Wi-Fi or mobile connectivity returns, without pressing Connect. Removed waiting on stale network events and DNS shutdown stalls. Explicit disconnect stops recovery.
+</en-AU>
+<en-CA>
+Fixed automatic VPN recovery after complete network loss. While connection is requested, the client keeps retrying and reconnects when Wi-Fi or mobile connectivity returns, without pressing Connect. Removed waiting on stale network events and DNS shutdown stalls. Explicit disconnect stops recovery.
+</en-CA>
+<en-GB>
+Fixed automatic VPN recovery after complete network loss. While connection is requested, the client keeps retrying and reconnects when Wi-Fi or mobile connectivity returns, without pressing Connect. Removed waiting on stale network events and DNS shutdown stalls. Explicit disconnect stops recovery.
+</en-GB>
+<en-IN>
+Fixed automatic VPN recovery after complete network loss. While connection is requested, the client keeps retrying and reconnects when Wi-Fi or mobile connectivity returns, without pressing Connect. Removed waiting on stale network events and DNS shutdown stalls. Explicit disconnect stops recovery.
+</en-IN>
+<en-SG>
+Fixed automatic VPN recovery after complete network loss. While connection is requested, the client keeps retrying and reconnects when Wi-Fi or mobile connectivity returns, without pressing Connect. Removed waiting on stale network events and DNS shutdown stalls. Explicit disconnect stops recovery.
+</en-SG>
+<en-US>
+Fixed automatic VPN recovery after complete network loss. While connection is requested, the client keeps retrying and reconnects when Wi-Fi or mobile connectivity returns, without pressing Connect. Removed waiting on stale network events and DNS shutdown stalls. Explicit disconnect stops recovery.
+</en-US>
+<en-ZA>
+Fixed automatic VPN recovery after complete network loss. While connection is requested, the client keeps retrying and reconnects when Wi-Fi or mobile connectivity returns, without pressing Connect. Removed waiting on stale network events and DNS shutdown stalls. Explicit disconnect stops recovery.
+</en-ZA>
+<es-419>
+Reconexión automática cuando vuelve la red, sin tener que pulsar otra vez el botón de conexión.
+</es-419>
+<es-ES>
+Reconexión automática cuando vuelve la red, sin tener que pulsar otra vez el botón de conexión.
+</es-ES>
+<es-US>
+Reconexión automática cuando vuelve la red, sin tener que pulsar otra vez el botón de conexión.
+</es-US>
+<et>
+Automaatne taasühendumine võrgu taastumisel ilma ühendamisnuppu uuesti vajutamata.
+</et>
+<eu-ES>
+Sarea itzultzean automatikoki berriz konektatzea, konektatzeko botoia berriz sakatu gabe.
+</eu-ES>
+<fa>
+اتصال مجدد خودکار پس از بازگشت شبکه، بدون نیاز به فشردن دوباره دکمه اتصال.
+</fa>
+<fi-FI>
+Automaattinen uudelleenyhdistäminen verkon palatessa ilman yhdistämispainikkeen painamista uudelleen.
+</fi-FI>
+<fil>
+Awtomatikong muling pagkonekta kapag bumalik ang network, nang hindi pinipindot muli ang kumonekta.
+</fil>
+<fr-CA>
+Reconnexion automatique au retour du réseau, sans appuyer de nouveau sur le bouton de connexion.
+</fr-CA>
+<fr-FR>
+Reconnexion automatique au retour du réseau, sans appuyer de nouveau sur le bouton de connexion.
+</fr-FR>
+<gl-ES>
+Reconexión automática cando volve a rede, sen ter que premer outra vez o botón de conexión.
+</gl-ES>
+<gu>
+નેટવર્ક પાછું આવે ત્યારે કનેક્ટ બટન ફરી દબાવ્યા વિના આપમેળે ફરી જોડાણ.
+</gu>
+<hi-IN>
+नेटवर्क वापस आने पर कनेक्ट बटन दोबारा दबाए बिना अपने आप फिर से जुड़ना।
+</hi-IN>
+<hr>
+Automatsko ponovno povezivanje nakon povratka mreže bez ponovnog pritiska gumba za povezivanje.
+</hr>
+<hu-HU>
+Automatikus újracsatlakozás a hálózat helyreállásakor a csatlakozás gomb újbóli megnyomása nélkül.
+</hu-HU>
+<hy-AM>
+Ավտոմատ վերամիացում ցանցի վերականգնումից հետո՝ առանց միացման կոճակը կրկին սեղմելու։
+</hy-AM>
+<id>
+Terhubung kembali otomatis saat jaringan pulih, tanpa menekan tombol hubungkan lagi.
+</id>
+<is-IS>
+Sjálfvirk endurtenging þegar netið kemur aftur, án þess að ýta aftur á tengihnappinn.
+</is-IS>
+<it-IT>
+Riconnessione automatica al ritorno della rete, senza premere nuovamente il pulsante di connessione.
+</it-IT>
+<iw-IL>
+חיבור מחדש אוטומטי כשהרשת חוזרת, ללא צורך ללחוץ שוב על כפתור החיבור.
+</iw-IL>
+<ja-JP>
+ネットワーク復旧時に、接続ボタンを再度押さずに自動で再接続します。
+</ja-JP>
+<ka-GE>
+ქსელის აღდგენისას ავტომატური ხელახალი დაკავშირება, დაკავშირების ღილაკზე ხელახლა დაჭერის გარეშე.
+</ka-GE>
+<kk>
+Желі қалпына келгенде қосылу түймесін қайта баспай автоматты түрде қайта қосылу.
+</kk>
+<km-KH>
+តភ្ជាប់ឡើងវិញដោយស្វ័យប្រវត្តិ នៅពេលបណ្តាញត្រឡប់មកវិញ ដោយមិនចាំបាច់ចុចប៊ូតុងភ្ជាប់ម្តងទៀត។
+</km-KH>
+<kn-IN>
+ನೆಟ್‌ವರ್ಕ್ ಮರಳಿ ಬಂದಾಗ ಸಂಪರ್ಕ ಬಟನ್ ಮತ್ತೆ ಒತ್ತದೆ ಸ್ವಯಂಚಾಲಿತ ಮರುಸಂಪರ್ಕ.
+</kn-IN>
+<ko-KR>
+네트워크가 복구되면 연결 버튼을 다시 누르지 않아도 자동으로 재연결합니다.
+</ko-KR>
+<ky-KG>
+Тармак калыбына келгенде туташуу баскычын кайра баспай автоматтык түрдө кайра туташуу.
+</ky-KG>
+<lo-LA>
+ເຊື່ອມຕໍ່ຄືນອັດຕະໂນມັດເມື່ອເຄືອຂ່າຍກັບຄືນມາ ໂດຍບໍ່ຕ້ອງກົດປຸ່ມເຊື່ອມຕໍ່ອີກ.
+</lo-LA>
+<lt>
+Automatinis pakartotinis prisijungimas atkūrus tinklą, dar kartą nespaudžiant prisijungimo mygtuko.
+</lt>
+<lv>
+Automātiska atkārtota savienošana, kad tīkls atjaunojas, bez atkārtotas savienojuma pogas nospiešanas.
+</lv>
+<mk-MK>
+Автоматско повторно поврзување кога ќе се врати мрежата, без повторно притискање на копчето за поврзување.
+</mk-MK>
+<ml-IN>
+നെറ്റ്‌വർക്ക് തിരിച്ചെത്തുമ്പോൾ കണക്റ്റ് ബട്ടൺ വീണ്ടും അമർത്താതെ സ്വയമേവ വീണ്ടും ബന്ധിപ്പിക്കുന്നു.
+</ml-IN>
+<mn-MN>
+Сүлжээ сэргэхэд холбогдох товчийг дахин дарахгүйгээр автоматаар дахин холбогдоно.
+</mn-MN>
+<mr-IN>
+नेटवर्क परत आल्यावर कनेक्ट बटण पुन्हा न दाबता आपोआप पुन्हा जोडणी.
+</mr-IN>
+<ms>
+Sambungan semula automatik apabila rangkaian pulih, tanpa menekan butang sambung lagi.
+</ms>
+<ms-MY>
+Sambungan semula automatik apabila rangkaian pulih, tanpa menekan butang sambung lagi.
+</ms-MY>
+<my-MM>
+ကွန်ရက်ပြန်ရသောအခါ ချိတ်ဆက်ခလုတ်ကို ထပ်နှိပ်ရန်မလိုဘဲ အလိုအလျောက် ပြန်လည်ချိတ်ဆက်သည်။
+</my-MM>
+<ne-NP>
+नेटवर्क फर्किएपछि जडान बटन फेरि नथिची स्वचालित पुनःजडान।
+</ne-NP>
+<nl-NL>
+Automatisch opnieuw verbinden zodra het netwerk terugkeert, zonder opnieuw op Verbinden te drukken.
+</nl-NL>
+<no-NO>
+Automatisk gjentilkobling når nettverket kommer tilbake, uten å trykke på tilkoblingsknappen igjen.
+</no-NO>
+<pa>
+ਨੈੱਟਵਰਕ ਵਾਪਸ ਆਉਣ ਤੇ ਕਨੈਕਟ ਬਟਨ ਦੁਬਾਰਾ ਦਬਾਏ ਬਿਨਾਂ ਆਪਣੇ ਆਪ ਮੁੜ ਕਨੈਕਟ ਹੋਣਾ।
+</pa>
+<pl-PL>
+Automatyczne ponowne łączenie po przywróceniu sieci, bez ponownego naciskania przycisku połączenia.
+</pl-PL>
+<pt-BR>
+Reconexão automática quando a rede volta, sem pressionar novamente o botão de conexão.
+</pt-BR>
+<pt-PT>
+Reconexão automática quando a rede volta, sem pressionar novamente o botão de conexão.
+</pt-PT>
+<ro>
+Reconectare automată la revenirea rețelei, fără apăsarea din nou a butonului de conectare.
+</ro>
+<si-LK>
+ජාලය නැවත ලැබුණු විට සම්බන්ධ වීමේ බොත්තම නැවත නොඔබා ස්වයංක්‍රීයව නැවත සම්බන්ධ වේ.
+</si-LK>
+<sk>
+Automatické opätovné pripojenie po obnovení siete bez ďalšieho stlačenia tlačidla Pripojiť.
+</sk>
+<sl>
+Samodejno ponovno povezovanje ob vrnitvi omrežja brez ponovnega pritiska gumba za povezavo.
+</sl>
+<sq>
+Rilidhje automatike kur rrjeti rikthehet, pa shtypur sërish butonin e lidhjes.
+</sq>
+<sr>
+Аутоматско поновно повезивање када се мрежа врати, без поновног притиска на дугме за повезивање.
+</sr>
+<sv-SE>
+Automatisk återanslutning när nätverket kommer tillbaka, utan att trycka på anslutningsknappen igen.
+</sv-SE>
+<sw>
+Muunganisho upya wa kiotomatiki mtandao unaporudi, bila kubonyeza kitufe cha kuunganisha tena.
+</sw>
+<ta-IN>
+நெட்வொர்க் திரும்பியதும் இணைப்பு பொத்தானை மீண்டும் அழுத்தாமல் தானாக மீண்டும் இணைகிறது.
+</ta-IN>
+<te-IN>
+నెట్‌వర్క్ తిరిగి వచ్చినప్పుడు కనెక్ట్ బటన్‌ను మళ్లీ నొక్కకుండానే స్వయంచాలకంగా మళ్లీ కనెక్ట్ అవుతుంది.
+</te-IN>
+<th>
+เชื่อมต่อใหม่อัตโนมัติเมื่อเครือข่ายกลับมา โดยไม่ต้องกดปุ่มเชื่อมต่ออีกครั้ง
+</th>
+<tr-TR>
+Ağ geri geldiğinde bağlan düğmesine tekrar basmadan otomatik yeniden bağlantı.
+</tr-TR>
+<uk>
+Автоматичне перепідключення після відновлення мережі без повторного натискання кнопки підключення.
+</uk>
+<ur>
+نیٹ ورک واپس آنے پر کنیکٹ بٹن دوبارہ دبائے بغیر خودکار دوبارہ اتصال۔
+</ur>
+<vi>
+Tự động kết nối lại khi có mạng trở lại, không cần nhấn nút kết nối lần nữa.
+</vi>
+<zh-CN>
+网络恢复后自动重新连接，无需再次点击连接按钮。
+</zh-CN>
+<zh-HK>
+網絡恢復後自動重新連線，毋須再次按連線按鈕。
+</zh-HK>
+<zh-TW>
+網路恢復後自動重新連線，無須再次按連線按鈕。
+</zh-TW>

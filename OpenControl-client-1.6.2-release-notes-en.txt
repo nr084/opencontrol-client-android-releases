@@ -1,0 +1,1 @@
+Fixed automatic VPN recovery after complete network loss. While connection is requested, the client keeps retrying and reconnects when Wi-Fi or mobile connectivity returns, without pressing Connect. Removed waiting on stale network events and DNS shutdown stalls. Explicit disconnect stops recovery.

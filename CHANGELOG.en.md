@@ -1,3 +1,7 @@
+# 1.6.2 — 2026-10-16
+
+Fixed automatic VPN recovery after complete network loss. While connection is requested, the client keeps retrying and reconnects when Wi-Fi or mobile connectivity returns, without pressing Connect. Removed waiting on stale network events and DNS shutdown stalls. Explicit disconnect stops recovery.
+
 # 1.6.1 — 2026-10-15
 
 After a successful connection, the client keeps reconnecting until you explicitly disconnect, including after temporary server configuration errors and network changes. Added -apk and -play editions. APK only: manual update checks and automatic checks at most once every 24 hours. The Play edition updates through Google Play.
