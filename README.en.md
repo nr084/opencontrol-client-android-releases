@@ -114,12 +114,9 @@ transient server configuration failures. Process restoration requires a saved
 password; session-only secrets are never persisted for recovery. Android may revoke
 VPN permission or force-stop the app.
 
-Two editions share the signing key and existing profiles: `1.6.1-apk` and `1.6.1-play`.
-Only APK has manual update checks and foreground automatic GitHub checks at most
+The APK retains the signing key and existing profiles. It has manual update checks and foreground automatic GitHub checks at most
 once per 24 hours, including failed attempts. Manual checks may bypass the interval.
-Downloading/installing is your choice. Play uses Google Play updates and contains
-no external update checker. Files: `OpenControl-client-1.6.2-apk.apk` and
-`OpenControl-client-1.6.2-play.aab`.
+Downloading/installing is your choice. File: `OpenControl-client-1.6.2-apk.apk`.
 
 ## Changes in 1.6.2
 

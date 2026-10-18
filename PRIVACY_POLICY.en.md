@@ -78,5 +78,4 @@ The direct APK distribution checks the public GitHub releases API when the app e
  agent. No credentials, firewall addresses, profiles, device identifiers or VPN
  traffic contents are included. The last attempt time is stored locally, including
  unsuccessful attempts, and removed by clearing app data. Opening a release page is
- optional; the app does not automatically download or install updates. The Google
- Play distribution contains no external update checker and updates through Google Play.
+ optional; the app does not automatically download or install updates.

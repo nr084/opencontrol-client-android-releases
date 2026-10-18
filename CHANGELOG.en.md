@@ -4,7 +4,7 @@ Fixed automatic VPN recovery after complete network loss. While connection is re
 
 # 1.6.1 — 2026-10-15
 
-After a successful connection, the client keeps reconnecting until you explicitly disconnect, including after temporary server configuration errors and network changes. Added -apk and -play editions. APK only: manual update checks and automatic checks at most once every 24 hours. The Play edition updates through Google Play.
+After a successful connection, the client keeps reconnecting until you explicitly disconnect, including after temporary server configuration errors and network changes. Added manual update checks and automatic checks at most once every 24 hours.
 
 # Changelog
 
@@ -20,10 +20,9 @@ After a successful connection, the client keeps reconnecting until you explicitl
 
 ## 1.5.0 — 2026-10-12
 
-- Interface localization for 69 languages and variants for 85 Google Play locales.
+- Interface localization for 69 languages.
 - Existing Russian and English UI retained; new translations are automatic. Romansh is excluded.
 - Store icon, feature graphic and real phone, 7-inch and 10-inch tablet screenshots in Russian and English.
-- Translated Google Play listings and a signed AAB.
 
 This release does not resolve the reported 600-second disconnection on Kerio Control 9.4.3 build 8353.
 

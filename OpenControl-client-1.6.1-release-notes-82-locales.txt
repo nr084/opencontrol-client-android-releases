@@ -1,5 +1,5 @@
 <ru-RU>
-После успешного подключения клиент продолжает переподключаться до явного отключения, в том числе после временных ошибок параметров сервера и смены сети. Добавлены варианты -apk и -play. Только APK: ручная проверка обновлений и автоматическая проверка не чаще раза в 24 часа. Версия Google Play обновляется через магазин.
+После успешного подключения клиент продолжает переподключаться до явного отключения, в том числе после временных ошибок параметров сервера и смены сети. Добавлены ручная проверка обновлений и автоматическая проверка не чаще раза в 24 часа.
 </ru-RU>
 <af>
 Verbeterde outomatiese herverbinding nadat die netwerk verander.
@@ -50,25 +50,25 @@ APK: Nach Updates suchen.
 APK: Έλεγχος για ενημερώσεις.
 </el-GR>
 <en-AU>
-After a successful connection, the client keeps reconnecting until you explicitly disconnect, including after temporary server configuration errors and network changes. Added -apk and -play editions. APK only: manual update checks and automatic checks at most once every 24 hours. The Play edition updates through Google Play.
+After a successful connection, the client keeps reconnecting until you explicitly disconnect, including after temporary server configuration errors and network changes. Added manual update checks and automatic checks at most once every 24 hours.
 </en-AU>
 <en-CA>
-After a successful connection, the client keeps reconnecting until you explicitly disconnect, including after temporary server configuration errors and network changes. Added -apk and -play editions. APK only: manual update checks and automatic checks at most once every 24 hours. The Play edition updates through Google Play.
+After a successful connection, the client keeps reconnecting until you explicitly disconnect, including after temporary server configuration errors and network changes. Added manual update checks and automatic checks at most once every 24 hours.
 </en-CA>
 <en-GB>
-After a successful connection, the client keeps reconnecting until you explicitly disconnect, including after temporary server configuration errors and network changes. Added -apk and -play editions. APK only: manual update checks and automatic checks at most once every 24 hours. The Play edition updates through Google Play.
+After a successful connection, the client keeps reconnecting until you explicitly disconnect, including after temporary server configuration errors and network changes. Added manual update checks and automatic checks at most once every 24 hours.
 </en-GB>
 <en-IN>
-After a successful connection, the client keeps reconnecting until you explicitly disconnect, including after temporary server configuration errors and network changes. Added -apk and -play editions. APK only: manual update checks and automatic checks at most once every 24 hours. The Play edition updates through Google Play.
+After a successful connection, the client keeps reconnecting until you explicitly disconnect, including after temporary server configuration errors and network changes. Added manual update checks and automatic checks at most once every 24 hours.
 </en-IN>
 <en-SG>
-After a successful connection, the client keeps reconnecting until you explicitly disconnect, including after temporary server configuration errors and network changes. Added -apk and -play editions. APK only: manual update checks and automatic checks at most once every 24 hours. The Play edition updates through Google Play.
+After a successful connection, the client keeps reconnecting until you explicitly disconnect, including after temporary server configuration errors and network changes. Added manual update checks and automatic checks at most once every 24 hours.
 </en-SG>
 <en-US>
-After a successful connection, the client keeps reconnecting until you explicitly disconnect, including after temporary server configuration errors and network changes. Added -apk and -play editions. APK only: manual update checks and automatic checks at most once every 24 hours. The Play edition updates through Google Play.
+After a successful connection, the client keeps reconnecting until you explicitly disconnect, including after temporary server configuration errors and network changes. Added manual update checks and automatic checks at most once every 24 hours.
 </en-US>
 <en-ZA>
-After a successful connection, the client keeps reconnecting until you explicitly disconnect, including after temporary server configuration errors and network changes. Added -apk and -play editions. APK only: manual update checks and automatic checks at most once every 24 hours. The Play edition updates through Google Play.
+After a successful connection, the client keeps reconnecting until you explicitly disconnect, including after temporary server configuration errors and network changes. Added manual update checks and automatic checks at most once every 24 hours.
 </en-ZA>
 <es-419>
 Se mejoró la reconexión automática después de cambiar de red.
