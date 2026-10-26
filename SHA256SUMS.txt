@@ -1,4 +1,3 @@
-12f5d18b1ea886694e5f05885d8c909d5ef1edc32a240557897c408ed273741c  OpenControl-client-1.6.2-apk.apk
-1078f56141877f31890dff676b08097c988b9bfc9a74a4b7147ba060343bbc0a  OpenControl-client-1.6.2-release-notes-ru.txt
-891ea36ecd25f39a8d0aa39e13d48f80a004697ee01c4781b1f0329a933c9189  OpenControl-client-1.6.2-release-notes-en.txt
-e8789fb115fee14b4bcc75c43cc849af14734a6922b4252284e730c23e62d8f1  OpenControl-client-1.6.2-release-notes-82-locales.txt
+41e36e01f4de94feeaf2021e4f981237cb8c75c37c8053146926420fbfbc6914  OpenControl-client-1.7.0-apk.apk
+75297dd8a7460801b1b175ee0fe658f0031b49088917e3de98df70806f40c26c  OpenControl-client-1.7.0-release-notes-ru.txt
+073d9c33313449efa1ea9d716faae1ac8647a6f6966ccd25dc0193f7acf8097d  OpenControl-client-1.7.0-release-notes-en.txt

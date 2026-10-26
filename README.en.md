@@ -12,9 +12,9 @@ This repository contains APK releases and instructions. Application sources are 
 
 [Latest release and APK](https://github.com/nr084/opencontrol-client-android-releases/releases/latest)
 
-Android 8.0 or later is required. The APK supports arm64-v8a and x86_64. Version 1.6.2 uses the OpenControl library 0.2.0.
+Android 8.0 or later is required. The APK supports arm64-v8a and x86_64. Version 1.7.0 uses OpenControl Protocol Library 0.9.0.
 
-1. Download `OpenControl-client-1.6.2-apk.apk` from **Assets**. The **Source code** archives are not needed for installation.
+1. Download `OpenControl-client-1.7.0-apk.apk` from **Assets**. The **Source code** archives are not needed for installation.
 2. Open the APK on Android and allow installation from your browser or file manager if prompted.
 3. Install and open OpenControl Client.
 
@@ -116,8 +116,12 @@ VPN permission or force-stop the app.
 
 The APK retains the signing key and existing profiles. It has manual update checks and foreground automatic GitHub checks at most
 once per 24 hours, including failed attempts. Manual checks may bypass the interval.
-Downloading/installing is your choice. File: `OpenControl-client-1.6.2-apk.apk`.
+Downloading/installing is your choice. File: `OpenControl-client-1.7.0-apk.apk`.
 
 ## Changes in 1.6.2
 
 Fixed automatic VPN recovery after complete network loss. While connection is requested, the client keeps retrying and reconnects when Wi-Fi or mobile connectivity returns, without pressing Connect. Removed waiting on stale network events and DNS shutdown stalls. Explicit disconnect stops recovery.
+
+## Version 1.7.0
+
+Updated OpenControl Protocol to 0.9.0. Improved route handling without disconnecting VPN; failed changes are retried and incomplete updates wait for completion. Added explicit legacy compatibility for older servers with weaker protection. Disabled by default, using AES; mode changes take effect on a new connection. Automatic recovery after network loss is retained.

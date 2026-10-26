@@ -1,3 +1,7 @@
+# 1.7.0 — 2026-10-26
+
+Updated OpenControl Protocol to 0.9.0. Improved route handling without disconnecting VPN; failed changes are retried and incomplete updates wait for completion. Added explicit legacy compatibility for older servers with weaker protection. Disabled by default, using AES; mode changes take effect on a new connection. Automatic recovery after network loss is retained.
+
 # 1.6.2 — 2026-10-16
 
 Fixed automatic VPN recovery after complete network loss. While connection is requested, the client keeps retrying and reconnects when Wi-Fi or mobile connectivity returns, without pressing Connect. Removed waiting on stale network events and DNS shutdown stalls. Explicit disconnect stops recovery.
